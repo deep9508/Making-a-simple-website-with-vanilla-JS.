@@ -6,5 +6,6 @@ Use a slider - which should allow user to scroll between the number of users - a
 
 To avoid pagination, Frontend devs came up with the solution of lazy loading, so when a user reaches the end of the page, more results are automatically loaded to have a good user experience.
 
-#video-link
+# video-link
+
 https://www.veed.io/view/c9fba493-a909-4831-9cd9-e7f7c7481c56?panel=share
